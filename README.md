@@ -227,3 +227,4 @@ The project emphasizes clean code organization through classes, demonstrates pra
 * Integrate with bank APIs for automatic transaction imports
 * Add unit and integration tests
 * Develop a web version using Flask or FastAPI
+
