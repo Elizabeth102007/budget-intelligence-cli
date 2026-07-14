@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project runtime files
+intelligence_transactions.csv
+intelligence_budget.json
+intelligence_report.txt
